@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib64/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -std=gnu++17 -o CMakeFiles/membot.dir/src/chatbot.cpp.o -c \"/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/chatbot.cpp\"",
+  "file": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/chatbot.cpp"
+},
+{
+  "directory": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib64/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -std=gnu++17 -o CMakeFiles/membot.dir/src/chatgui.cpp.o -c \"/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/chatgui.cpp\"",
+  "file": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/chatgui.cpp"
+},
+{
+  "directory": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib64/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -std=gnu++17 -o CMakeFiles/membot.dir/src/chatlogic.cpp.o -c \"/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/chatlogic.cpp\"",
+  "file": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/chatlogic.cpp"
+},
+{
+  "directory": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib64/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -std=gnu++17 -o CMakeFiles/membot.dir/src/graphedge.cpp.o -c \"/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/graphedge.cpp\"",
+  "file": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/graphedge.cpp"
+},
+{
+  "directory": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/lib64/wx/include/gtk3-unicode-3.0 -isystem /usr/include/wx-3.0  -pthread -g -std=gnu++17 -o CMakeFiles/membot.dir/src/graphnode.cpp.o -c \"/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/graphnode.cpp\"",
+  "file": "/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/src/graphnode.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/build/CMakeFiles/rebuild_cache.dir
+/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/build/CMakeFiles/membot.dir
+/run/media/mryad/New Volume/Udacity-C++-Nanodegree/Project_3/CppND-Memory-Management-Chatbot_Final/build/CMakeFiles/edit_cache.dir
